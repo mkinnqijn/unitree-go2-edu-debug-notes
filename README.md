@@ -48,7 +48,7 @@ ifconfig
 
 在 Ubuntu 终端中，进入 Unitree SDK2 Python 的目录：
 执行：
-cd ~/uitree_sdk2_python
+cd ~/unitree_sdk2_python
 
 进入该目录后，就可以使用相对路径运行 SDK 中的示例程序。后续运动控制和灯光亮度测试均通过 Ubuntu 终端执行，并使用 `ens33` 作为连接机器狗的网卡名称。
 
